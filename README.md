@@ -1,4 +1,6 @@
-# ---
-анализ применимости ИТ -сервиса
+#анализ применимости ИТ-сервисов
+В проведеном анализе,мы разберем 3 наиболее популярных веб-сервера: Apache HTTP Server, Nginx, Microsoft Internet Information Services (IIS) и LiteSpeed. Эти серверы выделяются своей надёжностью, гибкостью и широким набором функций, что делает их оптимальным выбором для различных типов веб-сайтов и приложений.
+##Apache
 
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3620_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Caddy Server","geo":"RU","time":"now 1-d"}],"category":0,"property":""}, {"exploreQuery":"q=Caddy%20Server&date=now%201-d&geo=RU&hl=ru","guestPath":"https://trends.google.ru:443/trends/embed/"}); </script>
+
+
